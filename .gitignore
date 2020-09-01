@@ -11,3 +11,4 @@ assets/videos/
 
 access.log
 db_config.txt
+.git-prompt.sh
