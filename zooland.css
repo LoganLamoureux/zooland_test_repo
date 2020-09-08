@@ -3,7 +3,7 @@ body{
 }
 
 div#wrapper {
-    width: 650px;
+    width: 700px;
     background-color: #FFF;
     margin-left: auto;
     margin-right: auto;
@@ -39,7 +39,7 @@ div#sidebar ul {
 
 div#content {
     float: left;
-    width: 650px;
+    width: 700px;
 }
 
 div#content h2 {
